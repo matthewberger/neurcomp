@@ -4,7 +4,7 @@
 
 [Yuzhe Lu](), [Kairong Jiang](), [Joshua A. Levine](https://jalevine.bitbucket.io/), [Matthew Berger](https://matthewberger.github.io/)
 
-[arxiv](https://arxiv.org/pdf/2104.04523.pdf)
+[arxiv link](https://arxiv.org/pdf/2104.04523.pdf)
 
 This project contains code, based on the above paper, that addresses the compression of volumetric scalar fields using coordinate-based multilayer perceptrons.
 
