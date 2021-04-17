@@ -1,6 +1,6 @@
 # Compressive Neural Representations of Volumetric Scalar Fields
 
-![alt text](https://github.com/matthewberger/tfgan/raw/master/images/teaser_small.jpg "Overview")
+![alt text](https://github.com/matthewberger/neurcomp/blob/c42d2ec69736fb80dcaeb70a7d15a6dc198ae390/images/teaser_small.jpg "Overview")
 
 [Yuzhe Lu](), [Kairong Jiang](), [Joshua A. Levine](https://jalevine.bitbucket.io/), [Matthew Berger](https://matthewberger.github.io/)
 
