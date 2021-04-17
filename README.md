@@ -45,4 +45,4 @@ To decompress the network, please see the `net_decompress.py` script. To run:
 python net_decompress.py --volume volumes/test_vol.npy --compressed compressed_out
 ```
 
-The above assumes that we have access to the original volume for comparison purposes, though this is simple enough to modify.
+The above assumes that we have access to the original volume for comparison purposes, though this is simple enough to modify if the volume is not present.
